@@ -7,7 +7,8 @@ package fact_rec;
  *
  * @author  Dinesh Nanda
  */
-public class Fact_Rec {
+ 
+/**public class Fact_Rec {
     
     public int fact(int num){
         if(num <= 1){
